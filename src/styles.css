@@ -1,0 +1,17 @@
+/* src/styles.css */
+
+body {
+   margin: 0;
+   font-family: 'Roboto', sans-serif;
+   background-color: #b7b2d13a;
+   /* background-color: #d5e0b3; */
+ }
+ 
+ #root {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 100vh;
+   padding: 20px;
+ }
+ 
